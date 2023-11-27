@@ -54,7 +54,7 @@ export const Badge = (props: Props) => {
     }}>Powered by
       <a
         ref={liteBadge}
-        href={'https://sevedo.it'}
+        href={'https://sevedo.it/'}
         target="_blank"
         rel="noopener noreferrer"
         class="lite-badge"
